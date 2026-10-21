@@ -20,7 +20,7 @@ The plugin follows the Stream Deck app's language: French for French, English fo
 
 ### Quick start
 
-1. Double-click `com.paul.compagnon-wargame.streamDeckPlugin`. Ready-made profiles are offered for each Stream Deck model; the actions are under **Wargame Companion**.
+1. Ready-made profiles are offered for each Stream Deck model; the actions are under **Wargame Companion**.
 2. Open the settings of any key and pick *Classic wargame (example)*: it uses every feature.
 3. Press **Turn sequence** to move through the phases, roll a **Battle** for each side, then press **Game** to open the log.
 4. To create your own game: **Game** key settings → **Open the game editor**.
@@ -173,7 +173,7 @@ Le plugin suit la langue de l'application Stream Deck : français pour le franç
 
 ### Démarrage rapide
 
-1. Double-cliquez sur `com.paul.compagnon-wargame.streamDeckPlugin`. Des profils prêts à l'emploi sont proposés pour chaque modèle ; les actions sont dans la catégorie **Compagnon de wargame**.
+1. Des profils prêts à l'emploi sont proposés pour chaque modèle ; les actions sont dans la catégorie **Compagnon de wargame**.
 2. Ouvrez les réglages d'une touche et choisissez *Wargame classique (exemple)* : il utilise toutes les fonctions.
 3. Appuyez sur **Séquence de tour** pour avancer, lancez une **Bataille** pour chaque camp, puis appuyez sur **Partie** pour ouvrir le journal.
 4. Pour créer votre jeu : réglages de la touche **Partie** → **Ouvrir l'éditeur de jeu**.
