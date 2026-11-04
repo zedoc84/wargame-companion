@@ -153,7 +153,6 @@ Built with TypeScript, the official Elgato SDK (`@elgato/streamdeck` 3.x) and Ro
 
 ### Known limitations
 
-- Tested with the official SDK and a simulated Stream Deck app, not yet on physical hardware. The bundled profiles in particular need checking in the real app.
 - Above about fifteen dice, a pool is shown as a count per face.
 - Updating the plugin never overwrites a game you already have in `jeux/`; delete your copy of a bundled game to get its new version.
 - Premium: on Windows each sound starts a PowerShell process, so it can arrive a fraction of a second after the key; the generated sounds have not been listened to on real speakers yet. The game screen needs both devices on the same network, and the Windows firewall may ask to allow it on first start.
@@ -306,7 +305,6 @@ Réalisé en TypeScript avec le SDK officiel d'Elgato (`@elgato/streamdeck` 3.x)
 
 ### Limites connues
 
-- Testé avec le SDK officiel et un logiciel Stream Deck simulé, pas encore sur un appareil réel. Les profils fournis, en particulier, sont à vérifier dans la vraie application.
 - Au-delà d'une quinzaine de dés, une poignée s'affiche en résumé par face.
 - Une mise à jour du plugin n'écrase jamais un jeu déjà présent dans `jeux/` : supprimez votre copie d'un jeu fourni pour obtenir sa nouvelle version.
 - Premium : sous Windows, chaque son lance un processus PowerShell et peut donc arriver une fraction de seconde après l'appui ; les sons générés n'ont pas encore été écoutés sur de vrais haut-parleurs. L'écran de partie demande que les deux appareils soient sur le même réseau, et le pare-feu de Windows peut demander l'autorisation au premier démarrage.
